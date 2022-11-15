@@ -7,3 +7,11 @@ h1{
   text-align: center;
   color: blue;
 }
+
+
+nav li {
+  list-style:disc;
+  font-size: 25px;
+  color: deeppink;
+  font-family:'Times New Roman', Times, serif;
+}
