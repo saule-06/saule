@@ -15,3 +15,9 @@ nav li {
   color: deeppink;
   font-family:'Times New Roman', Times, serif;
 }
+.one img{
+  width: 800px;
+  
+  margin-left: 300px;
+  margin-top: 50px;
+}
